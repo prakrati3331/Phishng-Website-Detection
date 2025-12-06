@@ -32,7 +32,7 @@ This project implements a machine learning model to detect phishing websites bas
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Phishing-Website-Detection-System.git
+   git clone [ https://github.com/prakrati3331/Phishng-Website-Detection?tab=readme-ov-file ]
    cd Phishing-Website-Detection-System
    ```
 
